@@ -27,6 +27,8 @@ public class Student {
 		this.studentName = studentName;
 	}
 
+	
+	
 	public String getStudentAddr() {
 		return studentAddr;
 	}
